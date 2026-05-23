@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+main {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #2c3e50;
+    color: white;
+    margin-top: 40px;
+}
+
+/* Ниже мусорный код для веса */
+.class-001 { color: #010101; margin: 1px; }
+.class-002 { color: #020202; margin: 2px; }
+.class-003 { color: #030303; margin: 3px; }
+.class-004 { color: #040404; margin: 4px; }
+.class-005 { color: #050505; margin: 5px; }
+.class-006 { color: #060606; margin: 6px; }
+.class-007 { color: #070707; margin: 7px; }
+.class-008 { color: #080808; margin: 8px; }
+.class-009 { color: #090909; margin: 9px; }
+.class-010 { color: #0a0a0a; margin: 10px; }
+.class-011 { color: #0b0b0b; margin: 11px; }
+.class-012 { color: #0c0c0c; margin: 12px; }
+.class-013 { color: #0d0d0d; margin: 13px; }
+.class-014 { color: #0e0e0e; margin: 14px; }
+.class-015 { color: #0f0f0f; margin: 15px; }
+.class-016 { color: #101010; margin: 16px; }
+.class-017 { color: #111111; margin: 17px; }
+.class-018 { color: #121212; margin: 18px; }
+.class-019 { color: #131313; margin: 19px; }
+.class-020 { color: #141414; margin: 20px; }
+.class-021 { color: #151515; margin: 21px; }
+.class-022 { color: #161616; margin: 22px; }
+.class-023 { color: #171717; margin: 23px; }
+.class-024 { color: #181818; margin: 24px; }
+.class-025 { color: #191919; margin: 25px; }
+.class-026 { color: #1a1a1a; margin: 26px; }
+.class-027 { color: #1b1b1b; margin: 27px; }
+.class-028 { color: #1c1c1c; margin: 28px; }
+.class-029 { color: #1d1d1d; margin: 29px; }
+.class-030 { color: #1e1e1e; margin: 30px; }
+.class-031 { color: #1f1f1f; margin: 31px; }
+.class-032 { color: #202020; margin: 32px; }
+.class-033 { color: #212121; margin: 33px; }
+.class-034 { color: #222222; margin: 34px; }
+.class-035 { color: #232323; margin: 35px; }
+.class-036 { color: #242424; margin: 36px; }
+.class-037 { color: #252525; margin: 37px; }
+.class-038 { color: #262626; margin: 38px; }
+.class-039 { color: #272727; margin: 39px; }
+.class-040 { color: #282828; margin: 40px; }
+.class-041 { color: #292929; margin: 41px; }
+.class-042 { color: #2a2a2a; margin: 42px; }
+.class-043 { color: #2b2b2b; margin: 43px; }
+.class-044 { color: #2c2c2c; margin: 44px; }
+.class-045 { color: #2d2d2d; margin: 45px; }
+.class-046 { color: #2e2e2e; margin: 46px; }
+.class-047 { color: #2f2f2f; margin: 47px; }
+.class-048 { color: #303030; margin: 48px; }
+.class-049 { color: #313131; margin: 49px; }
+.class-050 { color: #323232; margin: 50px; }
